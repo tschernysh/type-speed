@@ -85,3 +85,6 @@ body{
     content: ' ';
     background-color: #edf6e5b2;
 }
+.type_mistakes{
+    color: red;
+}
